@@ -22,7 +22,7 @@
     "apollo-link-http": "^1.5.16",
     "graphql": "^14.6.0",
     "graphql-tag": "^2.10.3",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "native-base": "^2.13.12",
     "react": "16.9.0",
     "react-apollo": "^3.1.3",
